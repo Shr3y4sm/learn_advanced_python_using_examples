@@ -1,5 +1,5 @@
 .DS_Store
-.ipynb_checkpoints/*
+.ipynb_checkpoints/*.*
 notebooks/OOPs/.ipynb_checkpoints/*.*
 notebooks/Advanced/.ipynb_checkpoints/*.*
 notebooks/Basics/.ipynb_checkpoints/*.*
@@ -11,3 +11,4 @@ notebooks/OOPs/Find_Roots_Quadratic/.ipynb_checkpoints/*.*
 notebooks/OOPs/Find_Area_Of_Circle/circle_project/tests/__pycache__/*.*
 notebooks/OOPs/Find_Roots_Quadratic/quadratic_equation_project/tests/__pycache__/*.*
 notebooks/OOPs/QR_Code_Generator/.ipynb_checkpoints/*.*
+notebooks/Advanced/.ipynb_checkpoints/*.*

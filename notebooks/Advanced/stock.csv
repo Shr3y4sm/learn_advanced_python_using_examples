@@ -1,0 +1,11 @@
+Vol,Rev,Exp,Sector,EmpCnt,HQ,MNC,StockID,GST,Start Date
+TCS_Solutions,980,950.3,700,Pub,500000,Mum,1,TCS,18,Apr 2004
+Infosys_Tech,970,930.8,690,Pvt,346000,Blr,1,INFY,12,Jul 1999
+Wipro_Services,960,890.5,680,Pub,250000,Blr,1,WIPR,5,Dec 2002
+HCL_Tech,950,870.4,670,Pvt,225000,NCR,1,HCLT,5,Aug 2007
+TechMahindra,940,850.2,665,Pub,146000,Pun,1,TMAH,12,Mar 2009
+LT_Infotech,920,820.6,655,Gov,92000,Mum,1,LTI,18,Dec 2016
+Mindtree_Ltd,910,810.8,650,Pvt,38000,Blr,1,MIND,18,Jan 2018
+Cognizant_India,995,940.7,710,Pub,355000,Chn,1,COGN,12,May 2019
+Mphasis_Ltd,925,830.5,675,Pvt,38000,Blr,1,MPHS,5,Sep 2020
+Persistent_Systems,945,845.2,685,Gov,25000,Pun,0,PRST,5,Apr 2021
